@@ -125,7 +125,7 @@ The application leverages the browser's geolocation API to fetch the user's curr
 To run the Fast React Pizza Ordering System locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/itzharshitmavi/fast-react-pizza.git`
-2. Navigate to the project directory: `cd FAST-REACT-PIZZA`
+2. Navigate to the project directory: `cd fast-pizza-co`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
